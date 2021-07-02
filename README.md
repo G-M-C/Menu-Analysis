@@ -5,13 +5,13 @@ The user can enter the 'URL' of a particular restaurant listed on Zomato and thi
 
 ### Modules Used
 <pre>
-1.bs4
-2.requests
-3.json
-4.re
-5.pandas
-6.seaborn
-7.matplotlib
-8.nltk
-9.inflect
+1.bs4 : for scraping
+2.requests : for scraping 
+3.json : for jsonifying the response
+4.re : for data cleaning
+5.pandas : for data manipulation
+6.seaborn : for data visualization
+7.matplotlib : for data visualization
+8.nltk : for data cleaning
+9.inflect : for data cleaning
 </pre>
