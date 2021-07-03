@@ -3,6 +3,8 @@ An analysis of the description of various dishes on the menu of a particular res
 
 The user can enter the 'URL' of a particular restaurant listed on Zomato and this program will extract the menu of this restaurant and perform the required analysis.
 
+To view the viz on Tableau --> https://public.tableau.com/app/profile/george.mc1411/viz/MenuAnalysis_16252986553190/Sheet1
+
 ### Modules Used
 <pre>
 1.bs4 : for scraping
